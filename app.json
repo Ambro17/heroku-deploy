@@ -7,6 +7,6 @@
       "FLASK_APP": {
           "description": "Path to the flask instance",
           "value": "app:app"
-      },
+      }
     }
   }
