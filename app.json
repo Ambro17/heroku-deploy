@@ -1,0 +1,12 @@
+{
+    "name": "Test example",
+    "description": "Test example desc",
+    "repository": "https://github.com/Ambro17/heroku-deploy",
+    "keywords": ["heroku", "python"],
+    "env": {
+      "FLASK_APP": {
+          "description": "Path to the flask instance",
+          "value": "app:app"
+      },
+    }
+  }
